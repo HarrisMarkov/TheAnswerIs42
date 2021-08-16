@@ -13,3 +13,6 @@ n - the initial sum of money
 OUTPUT:  
 p - the least number of steps used to get to 42
 BAD LUCK - if the algorithm cannot get to 42 with the initial sum and rules
+
+LIMITS:  
+0 < n < 1000000
